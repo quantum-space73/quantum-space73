@@ -1,7 +1,7 @@
 <!-- Banner (optional) -->
 <!--![Banner](https://your-image-link.com/banner.png)-->
 
-# 👋 Hi, Biruk Here
+# 👋 Hi,MNLK_Specter0x73 Here
 
 🎓 Dual Major: Electronics & Communication Engineering + Computer Science  
 🛠 Passionate about real-world projects in AI, Cybersecurity & Hardware  
